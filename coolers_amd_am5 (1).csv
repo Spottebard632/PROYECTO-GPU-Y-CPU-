@@ -1,0 +1,47 @@
+﻿Manufacturer,Model,THETA AMD AM5,AMD mount,Type,Radiator size / air dimensions (mm),Weight (g),Fans,Noise at full speed (dB(A)),CPU temperature (°C) [AMD AM5 - Fans at full speed],Average CPU frequency (MHz) [AMD AM5 - Fans at full speed],CPU power (W) [AMD AM5 - Fans at full speed],Overall performance [AMD AM5 - Fans at full speed]
+ARCTIC,Liquid Freezer III Pro 360,THETA Platinum · AIO · AMD AM5,Default,Liquid,360,2020,3,47.90,87.5,5267.7,207.0,12470
+ARCTIC,Liquid Freezer III 420 A-RGB,THETA Titanium · AIO · AMD AM5,Default,Liquid,420,2325,3,37.80,88.9,5247.9,209.2,12347
+Ocypus,Sigma L36 BK ARGB,THETA Titanium · AIO · AMD AM5,Default,Liquid,360,1576,3,42.10,86.9,5257.7,202.6,12257
+be quiet!,Light Loop 360mm,THETA Platinum · AIO · AMD AM5,Default,Liquid,360,1480,3,41.00,87.8,5250.6,204.7,12239
+ASRock,Challenger 360 Digital,THETA Titanium · AIO · AMD AM5,Default,Liquid,360,1565,3,39.60,87.7,5259.4,203.2,12194
+ARCTIC,Liquid Freezer III Pro 420 A-RGB,THETA Platinum · AIO · AMD AM5,Default,Liquid,420,2360,3,46.70,88.7,5246.6,204.8,12116
+CPS PCCooler,DT360 ARGB Display AIO,THETA Gold · AIO · AMD AM5,Default,Liquid,360,1999,3,47.70,88.1,5243.0,202.8,12068
+Ocypus,lota L36 WH,THETA Silver · AIO · AMD AM5,Default,Liquid,360,1550,3,41.20,88.4,5243.8,202.4,12000
+ARCTIC,Liquid Freezer III 360 A-RGB,THETA Platinum · AIO · AMD AM5,Default,Liquid,360,2325,3,34.30,90.6,5232.7,206.0,11900
+be quiet!,Light Loop IO LCD 360mm,THETA Gold · AIO · AMD AM5,Default,Liquid,360,1600,3,39.50,88.5,5242.1,199.4,11804
+Corsair,iCue Link Titan 360 RX LCD,THETA Gold · AIO · AMD AM5,Default,Liquid,360,1645,3,43.90,88.4,5243.1,198.9,11797
+Ocypus,Sigma L36 PRO BK,THETA Gold · AIO · AMD AM5,Default,Liquid,360,1732,3,45.70,89.9,5234.5,201.5,11727
+be quiet!,Silent Loop 3 420mm,THETA Gold · AIO · AMD AM5,Default,Liquid,420,2010,3,38.00,89.5,5252.6,199.1,11692
+be quiet!,Pure Loop 3 LX 360mm,THETA Gold · AIO · AMD AM5,Default,Liquid,360,1280,3,39.00,90.1,5233.2,198.4,11532
+Corsair,iCue Link Titan 360 RX RGB,THETA Gold · AIO · AMD AM5,Default,Liquid,360,2500,3,45.90,90.1,5249.2,197.1,11489
+FSP Technology,AE36 AIO,THETA Silver · AIO · AMD AM5,Default,Liquid,360,1444,3,46.60,91.1,5220.6,195.4,11193
+CPS PCCooler,RZ820 Display,THETA Titanium · Air · AMD AM5,Default,Air,150 x 161 x 169 (WxLxH),1933,2,40.60,92.0,5205.4,195.7,11068
+Enermax,LIQMAXFLO 360mm,THETA Silver · AIO · AMD AM5,Default,Liquid,360,1870,3,36.00,91.2,5219.9,192.7,11027
+ARCTIC,Liquid Freezer III 280 A-RGB,THETA Silver · AIO · AMD AM5,Default,Liquid,280,1765,2,36.50,91.5,5220.2,192.7,10995
+XPG,Levante II 360,THETA Bronze · AIO · AMD AM5,Default,Liquid,360,2400,3,42.70,92.3,5198.6,193.8,10920
+Cooler Master,V8 ACE 3DHP BLACK (AMD),THETA Platinum · Air · AMD AM5,Default,Air,137 x 139 x 168 (WxLxH),1169,2,37.90,92.6,5200.4,192.9,10834
+Corsair,iCue Link Titan II 360 LCD,THETA Silver · AIO · AMD AM5,Default,Liquid,360,2000,3,42.60,92.9,5202.4,192.8,10800
+Noctua,NH-D15 G2 LBC,THETA Platinum · Air · AMD AM5,Default,Air,150 x 152 x 168 (WxLxH),1525,2,36.60,93.0,5193.3,193.1,10784
+Raijintek,Cyclops 360,THETA Bronze · AIO · AMD AM5,Default,Liquid,360,1500,3,38.90,95.2,5156.7,193.1,10457
+FSP Technology,MP7 ARGB,THETA Gold · Air · AMD AM5,Default,Air,124 x 124 x 153 (WxLxH),905,2,39.60,94.0,5176.9,189.8,10454
+Thermalright,Peerless Assassin 140 Black,THETA Platinum · Air · AMD AM5,Default,Air,132 x 140 x 158 (WxLxH),1174,2,32.70,94.5,5165.5,190.2,10399
+Cooler Master,Hyper 612 Apex,THETA Gold · Air · AMD AM5,Default,Air,114 x 127 x 159 (WxLxH),1129,2,35.70,94.8,5175.8,189.0,10316
+Enermax,ETS-TD60 Digital ARGB,THETA Silver · Air · AMD AM5,Default,Air,120 x 134 x 159 (WxLxH),1038,2,35.00,95.0,5174.3,188.2,10254
+Ocypus,Delta A62 EX WH Digital,THETA Silver · Air · AMD AM5,Default,Air,134 x 139 x 164 (WxLxH),1123,2,41.50,95.1,5164.5,188.4,10229
+Noctua,NH-D15,THETA Gold · Air · AMD AM5,Default,Air,150 x 161 x 165 (WxLxH),1320,2,32.30,95.3,5164.4,188.5,10215
+ARCTIC,Freezer 36 Black,THETA Silver · Air · AMD AM5,Default,Air,104 x 126 x 159 (WxLxH),890,2,30.50,95.2,5145.3,185.3,10014
+ARCTIC,Freezer 36-S,THETA Silver · Air · AMD AM5,Default,Air,88 x 126 x 156 (WxLxH),685,1,39.30,95.2,5145.5,184.9,9989
+Scythe,MUGEN 6 Black Edition,THETA Silver · Air · AMD AM5,Default,Air,132 x 132 x 154 (WxLxH),1197,2,34.60,95.3,5139.5,184.6,9957
+be quiet!,Pure Rock Pro 3,THETA Silver · Air · AMD AM5,Default,Air,124 x 114 x 155 (WxLxH),1077,2,33.80,95.2,5139.5,184.5,9956
+FSP Technology,NP5 ARGB,THETA Silver · Air · AMD AM5,Default,Air,120 x 74 x 152 (WxLxH),614,1,31.10,95.2,5137.7,184.3,9951
+be quiet!,Dark Rock Pro 6,THETA Silver · Air · AMD AM5,Default,Air,140 x 147 x 169 (WxLxH),1340,2,36.50,95.1,5148.2,183.6,9936
+Thermalright,Assasin Spirit 120 V2 Plus,THETA Silver · Air · AMD AM5,Default,Air,120 x 100 x 154 (WxLxH),821,2,34.50,95.2,5142.0,183.7,9918
+Segotep,KL-360 ARGB,No THETA level,Default,Liquid,360,2360,3,43.50,95.4,5157.0,183.0,9896
+Cooler Master,V4 Alpha 3DHP Black,THETA Silver · Air · AMD AM5,Default,Air,114 x 133 x 161 (WxLxH),917,2,29.90,95.1,5129.5,182.7,9852
+Cooler Master,Hyper 212 3DHP Black,THETA Silver · Air · AMD AM5 (rated at 25 dB(A)),Default,Air,86 x 133 x 158 (WxLxH),631,1,29.50,95.1,5126.7,181.7,9789
+Thermalright,Assassin X 120 Refined SE ARGB,THETA Silver · Air · AMD AM5,Default,Air,120 x 72 x 149 (WxLxH),604,1,30.00,95.1,5115.4,179.7,9665
+Noctua,NH-D12L chromax.black,THETA Bronze · Air · AMD AM5,Default,Air,125 x 113 x 145 (WxLxH),890,2,30.50,95.2,5123.9,178.6,9615
+Cooler Master,Hyper 212 3DHP Black ARGB,THETA Silver · Air · AMD AM5 (rated at 25 dB(A)),Default,Air,86 x 133 x 158 (WxLxH),639,1,29.30,95.1,5108.0,177.4,9524
+be quiet!,Pure Rock 3,THETA Bronze · Air · AMD AM5,Default,Air,124 x 71 x 154 (WxLxH),590,1,29.40,95.1,5092.5,175.9,9416
+CPS PCCooler,RZ700D,No THETA level,Default,Air,122 x 111 x 160 (WxLxH),1300,2,37.40,95.2,5068.5,171.6,9134
+Ocypus,Iota A62,No THETA level,Default,Air,136 x 127 x 158 (WxLxH),1110,2,39.10,95.1,5049.0,169.6,9007

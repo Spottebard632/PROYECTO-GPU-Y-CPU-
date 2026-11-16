@@ -1,0 +1,17 @@
+﻿Manufacturer,Model,THETA Intel LGA1851,Intel mount,Type,Radiator size / air dimensions (mm),Weight (g),Fans,Noise at full speed (dB(A)),CPU temperature (°C) [Intel LGA1851 - Fans at full speed],Average CPU frequency (MHz) [Intel LGA1851 - Fans at full speed],CPU power (W) [Intel LGA1851 - Fans at full speed],Overall performance [Intel LGA1851 - Fans at full speed]
+ARCTIC,Liquid Freezer III 420 A-RGB - Intel Offset,THETA Titanium · AIO · Intel LGA1851,Offset,Liquid,420,2325,3,37.80,76.5,4344.3,306.1,17374
+ARCTIC,Liquid Freezer III Pro 360,THETA Platinum · AIO · Intel LGA1851,Default,Liquid,360,2020,3,47.90,76.8,4226.2,304.4,16746
+be quiet!,Silent Loop 3 420mm,THETA Silver · AIO · Intel LGA1851,Default,Liquid,420,2010,3,38.00,78.6,4260.5,298.5,16174
+FSP Technology,AE36 AIO,THETA Gold · AIO · Intel LGA1851,Default,Liquid,360,1444,3,46.60,78.7,4215.6,298.6,15998
+Ocypus,lota L36 WH,THETA Silver · AIO · Intel LGA1851,Default,Liquid,360,1550,3,41.20,79.8,4234.7,299.7,15905
+ARCTIC,Liquid Freezer III 420 A-RGB,No THETA level,Stock (not rated; the offset mount is rated as #82),Liquid,420,2325,3,37.80,81.9,4210.4,307.7,15814
+CPS PCCooler,RZ820 Display,THETA Platinum · Air · Intel LGA1851,Default,Air,150 x 161 x 169 (WxLxH),1933,2,40.60,84.2,4191.7,298.7,14866
+XPG,Levante II 360,THETA Bronze · AIO · Intel LGA1851,Default,Liquid,360,2400,3,42.70,85.0,4199.3,297.7,14714
+Noctua,NH-D15 G2 HBC,THETA Platinum · Air · Intel LGA1851,Default,Air,150 x 152 x 168 (WxLxH),1525,2,36.60,85.0,4147.0,297.3,14507
+Cooler Master,V8 ACE 3DHP BLACK (Intel),THETA Platinum · Air · Intel LGA1851,Default,Air,137 x 139 x 168 (WxLxH),1169,2,37.90,86.9,4145.6,301.3,14374
+Cooler Master,V4 Alpha 3DHP Black,THETA Silver · Air · Intel LGA1851,Default,Air,114 x 133 x 161 (WxLxH),917,2,29.90,93.3,4138.9,297.3,13197
+Thermalright,Assassin X 120 Refined SE ARGB,THETA Silver · Air · Intel LGA1851,Default,Air,120 x 72 x 149 (WxLxH),604,1,30.00,96.7,4204.2,296.4,12884
+Cooler Master,Hyper 212 3DHP Black ARGB,THETA Silver · Air · Intel LGA1851 (rated at 25 dB(A)),Default,Air,86 x 133 x 158 (WxLxH),639,1,29.30,94.3,4076.2,297.5,12863
+Cooler Master,Hyper 212 3DHP Black,THETA Silver · Air · Intel LGA1851 (rated at 25 dB(A)),Default,Air,86 x 133 x 158 (WxLxH),631,1,29.50,94.8,4091.6,297.8,12859
+Thermalright,Assasin Spirit 120 V2 Plus,THETA Bronze · Air · Intel LGA1851,Default,Air,120 x 100 x 154 (WxLxH),821,2,34.50,94.4,4068.3,297.0,12796
+be quiet!,Pure Rock 3,THETA Silver · Air · Intel LGA1851,Default,Air,124 x 71 x 154 (WxLxH),590,1,29.40,97.8,4208.1,296.6,12756
