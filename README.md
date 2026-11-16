@@ -2,8 +2,6 @@
 
 Proyecto final de **Aprendizaje de Máquina** · Autores: **David Cediel** y **David Gómez**
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/clasificacion-gamas-cpu-gpu-coolers/blob/main/notebooks/Avance_3_ML_y_Terminado.ipynb)
-
 ## Descripción
 
 El proyecto clasifica **procesadores (CPU), tarjetas gráficas (GPU) y coolers** en **gamas de rendimiento** usando únicamente las características de catálogo del producto (memoria, relojes, núcleos, TDP, peso, tipo de refrigeración, etc.) y **sin usar el benchmark** con el que se construyó la etiqueta.
