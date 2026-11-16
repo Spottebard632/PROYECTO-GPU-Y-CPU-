@@ -6,8 +6,6 @@ Este archivo contiene SOLO el código de notebooks/Avance_3_ML_y_Terminado.ipynb
 (Avance 1, Avance 2 y Avance 3), en el mismo orden. El texto explicativo está en
 README.md y en docs/informe.md.
 
-Cómo ejecutarlo (desde la carpeta raíz del repositorio):
-    python src/proyecto_gamas.py
 
 - Descarga de internet los catálogos de GPU, CPU y coolers y los benchmarks de CPU y GPU.
 - Lee los dos CSV de Cybenetics que están en la carpeta data/.
