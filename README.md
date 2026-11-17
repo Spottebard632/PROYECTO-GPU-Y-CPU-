@@ -153,3 +153,5 @@ python src/proyecto_gamas.py
 ## Autores
 
 **David Cediel** y **David Gómez**
+##link del enlace del video
+- (https://drive.google.com/file/d/11HZvngc2SBxSdNlkYWwGLnF89rm2HkC4/view?usp=sharing)
